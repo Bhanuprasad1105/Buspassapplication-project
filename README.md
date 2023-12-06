@@ -1,2 +1,3 @@
 # Buspassapplication-project
 To put it simply, Bus pass application means system that can provide pass identification using QR code, Pass renewal, cancellation, updating, Student discount, student profile, transaction etc.
+    Students can buy the bus-pass over the Internet, 24 hours a day throughout the week, this solves the issue of bus-pass being misplaced or stolen. Users can renew their pass every year through online using this system . In addition, the online system lets the students check the availability of the bus-route to their nearby location or to their village before they buy bus a pass. Furthermore, students no need to pay cash to buy bus a pass because they can pay using UPI or Credit Card (eg. Master Card, Visa Card).
